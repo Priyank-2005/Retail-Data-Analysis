@@ -5,7 +5,7 @@ import pandas as pd
 st.set_page_config(page_title="Retail Insights", layout="wide")
 
 # 2. Title
-st.title("📊 Global Retail Performance Dashboard")
+st.title("Global Retail Performance Dashboard")
 st.markdown("---")
 
 # 3. Load Data

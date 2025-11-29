@@ -38,7 +38,7 @@ This project addresses the **"Data Latency"** problem—reducing the time from *
 ## How to Run Locally
 
 ### 1. Clone the Repository
-git clone https://github.com/YOUR_USERNAME/Retail-Data-Analysis.git
+git clone https://github.com/Priyank-2005/Retail-Data-Analysis.git
 cd Retail-Data-Analysis
 
 ### 2. Install Dependencies
